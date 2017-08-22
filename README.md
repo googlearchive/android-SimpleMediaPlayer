@@ -12,14 +12,14 @@ Here are some important things this sample highlights:
 
 The following articles describe what this sample does in detail:
 
-1. [MediaPlayer introduction](https://medium.com/@nazmul/introduction-to-mediaplayer-part-1-3-c14d1a66e0f1)
-2. [Buiding the app](https://medium.com/@nazmul/introduction-to-mediaplayer-part-2-3-a514f6224b83)
-3. [Synchronizing with the SeekBar](https://medium.com/@nazmul/introduction-to-mediaplayer-part-3-3-ead4a0e10673)
+1. [MediaPlayer introduction](https://medium.com/@nazmul/building-a-simple-audio-app-in-android-part-1-3-c14d1a66e0f1)
+2. [Buiding the app](https://medium.com/@nazmul/building-a-simple-audio-app-in-android-part-2-3-a514f6224b83)
+3. [Synchronizing with the SeekBar](https://medium.com/@nazmul/building-a-simple-audio-app-in-android-part-3-3-ead4a0e10673)
 
 Screenshots
 ===========
 
-![](screenshots/screenshots.gif "Playback UI")
+<img src="https://raw.githubusercontent.com/googlesamples/android-SimpleMediaPlayer/master/screenshots/screenshots.gif" width="50%" height="50%">
 
 License
 -------
