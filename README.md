@@ -1,8 +1,8 @@
 Simple MediaPlayer Sample
 =========================
 
-This sample demonstrates the use of `MediaPlayer`. Here are some important
-things this sample highlights:
+This sample demonstrates the use of [`MediaPlayer`](https://developer.android.com/reference/android/media/MediaPlayer.html).
+Here are some important things this sample highlights:
 
 - Media playback position and duration are synchronized with a `Seekbar` in the UI.
 - If the user manually changes the `Seekbar` position the `MediaPlayer` playback
@@ -10,10 +10,16 @@ things this sample highlights:
 - State machine transitions for `MediaPlayer` are displayed in the UI.
 - MP3 files are loaded from the `raw/res/` folder (no streaming over network).
 
+The following articles describe what this sample does in detail:
+
+1. [MediaPlayer introduction](https://medium.com/@nazmul/introduction-to-mediaplayer-part-1-3-c14d1a66e0f1)
+2. [Buiding the app](https://medium.com/@nazmul/introduction-to-mediaplayer-part-2-3-a514f6224b83)
+3. [Synchronizing with the SeekBar](https://medium.com/@nazmul/introduction-to-mediaplayer-part-3-3-ead4a0e10673)
+
 Screenshots
 ===========
 
-![](screenshots/screenshots.png "Playback UI")
+![](screenshots/screenshots.gif "Playback UI")
 
 License
 -------
